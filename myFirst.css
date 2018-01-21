@@ -768,6 +768,8 @@ body
 }
 #new ul{
 	float:none;
+	margin:0;
+	padding:0;
 }
 
 .footer ul li
