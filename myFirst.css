@@ -34,7 +34,7 @@ body
 .header .slider
 {
     height:600px;
-    background-image:url(../image/b.jpg);
+    background-image:url(b.jpg);
     -webkit-background-size:cover; /* css3*/
        -moz-background-size:cover; /* css3*/
          -o-background-size:cover; /* css3*/
