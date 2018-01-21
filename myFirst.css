@@ -766,6 +766,10 @@ body
     padding:10px 200px 0 0;
     float:right
 }
+#new ul{
+	float:none;
+}
+
 .footer ul li
 {
     display:inline;
