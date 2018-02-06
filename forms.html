@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="learn make a form">
+		<title>make a form</title>
+		<link rel="stylesheet" href="style.css">
+		<style>
+		</style>
+		<script></script>
+	
+	</head>
+	
+	<body class="di">
+	
+		<form name="register" id="register" action="n.php" method="post">
+		<br/>
+		
+			<fieldset>
+				<legend>نموذج تسجيل</legend><br><br>
+				
+				<label class="la">username</label>
+				<input type="text" id="username" name="username" placeholder="username" maxlength="14">
+				
+				<label class="la">password</label>
+				<input type="password" id="password" name="password" placeholder="password" maxlength="13">
+				
+				<label class="la">email</label>
+				<input type="email" id="email" name="email" placeholder="email" >
+				
+				<label class="la">suggest</label>
+				 <textarea></textarea><br><br>
+				</fieldset>
+				
+				
+			<fieldset>
+				<legend>selection</legend><br>
+				<label class="k">Pythone</label>
+				<input type="checkbox" id="pythone" name="pythone" class="k">
+				<br><br><hr><br>
+				<label class="d">Gender</label><br><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Male<input type="radio" id="gender" name="gender" class="k">
+				&nbsp;&nbsp;&nbsp;&nbsp;Fmail<input type="radio" id="gender" name="gender" class="k"><br><br>
+				<hr><br>
+				 &nbsp;<label class="k">Choose the city<label/>&nbsp;
+				<select name"city" class="li">
+
+					<optgroup><b>palestine</b>
+						<option disabled value="4">Egypt</option>
+						<option selected value="1">qairo</option>
+						<option  value="2">eskindary</option>
+						<option value="3" >monofia</option>
+					</optgroup>
+					<optgroup>
+					<option disabled value="5">Palestine</option>
+						<option value="Ramallah">Ramallah</option>
+						<option value="Gaza">Gaza</option>
+						<option value="juresalem">juresalem</option>
+					</optgroup>
+					
+				</select><br>
+				<hr><br>
+				<label class="li">Date</label>
+				<input type="date" id="Date" name="Data" class="k"><br><br><br>
+			</fieldset>
+				
+			<fieldset>
+				<legend>option</legend>
+				<input type="reset" id="reset" name="reset" value="   نفريغ   " class="k">
+				<input type="file" id="file" name="file"  class="k"><br><br>
+				<input type="submit" id="sign up" name="sign up" value="S i g n  up" class="l">
+			</fieldset><br><br><br>
+			
+		
+		
+		</form>
+	</body>
+</html>
