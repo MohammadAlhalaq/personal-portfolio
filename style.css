@@ -1,0 +1,117 @@
+
+			fieldset
+			
+			{
+			width:600px;
+			
+			padding:10px;
+			margin-bottom:10px;
+			font-weight:bold;
+			background:#FFF;
+			margin:20px auto
+			}
+			
+			
+			
+			
+			body
+			{
+			background:#9999ff;
+			
+			font-family:Arial,Tahoma
+			}
+			
+			
+			legend
+			{
+			margin-bottom:10px;
+			padding:15px;
+			background:#ff3300;
+			color:white;
+			margin-left:30px;
+			font-size:20px
+			
+			}
+			
+			.la
+			{
+			width:504px;
+			padding:5px;
+			display:block;
+			font-weight:bold;
+			background-color:#EEE;
+			margin-left:30px;
+			
+			
+			}
+			.l
+			{
+			
+			width:200px;
+			padding:5px;
+			display:block;
+			font-weight:bold;
+			background-color:#EEE;
+			margin-left:30px;
+			
+			}
+			.li
+			{
+			padding:5px;
+			width:100spx;
+			height:30px;
+			font-weight:bold;
+			margin-left:30px;
+			
+			}
+			
+			hr
+			{
+			border:1px solid #EEE;
+			
+			}
+			
+			
+			.d{
+			background-color:#EEE;
+			width:40px;
+			margin-left:30px;
+			
+			}
+			
+			input[type="password"],input[type="text"],input[type="email"]
+			{
+
+			width:490px;
+			height:30px;
+			display:block;
+			padding:10px;
+			margin-bottom:20px;
+			margin-left:30px;
+			
+			
+			
+			}
+			textarea
+			{
+			width:492px;
+			
+			display:block;
+			padding:10px;
+			margin-bottom:20px;
+			margin-left:30px;
+			
+			}
+			
+			
+			
+			textarea
+			{
+			height:100px
+			}
+			
+			.k
+			{
+			margin-left:30px
+			}
+			
