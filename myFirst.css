@@ -4,8 +4,7 @@
 body
 {
      font-family:Tahoma,Arial;
-     background-image:url(b.jpg);
-    background-size: cover;
+     background-color: white;
 }
 
 .cotener
@@ -26,6 +25,7 @@ body
 {
     clear: both
 }
+
 
 /* end main roul */
 
@@ -50,7 +50,7 @@ body
     text-align:center;
     padding:200px 0 33px 0;
     margin-buttom:10px;
-}   
+}
 .header .slider .intro a{
     color:white;
     text-decoration: none;
@@ -128,15 +128,15 @@ body
 
 .header .navbar ul li
 {
-    
+
     padding:10px;
     float:left;
 }
 
-.header .navbar ul li a 
+.header .navbar ul li a
 {
     color:#FFF;
-    text-decoration:none   
+    text-decoration:none
 }
 
 .header .navbar ul li.active a,
@@ -154,9 +154,9 @@ body
     overflow:hidden;
     padding-top:50px;
     padding-bottom:50px;
-    
 
-    
+
+
 }
 
 .features .feat
@@ -165,10 +165,10 @@ body
     width:50%;
     height:150px;
     margin:30px 0px;
-    
+
 }
 
-.features .feat h2 
+.features .feat h2
 {
     text-transform:capitalize;
     font-family:Tahoma;
@@ -189,10 +189,10 @@ body
 
 .about-me
 {
-    
+
     overflow:hidden;
-    background-color:#f2f2f2;
-    margin:20px 0  
+    background-color:#ccc;
+    margin:20px 0
 }
 .about-me .image
 {
@@ -257,14 +257,14 @@ body
 {
     max-width:100%;
     margin:20px 10px 0 0;
-   
+
 }
 
 .about-me .info .hobbies .text
 {
     float:left;
     width:70%;
-    
+
 }
 
 .about-me .info .hobbies  .person .text h3
@@ -280,7 +280,7 @@ body
     margin:0 0 0 0;
     text-align: justify;
 
-    
+
 
 }
 
@@ -344,7 +344,7 @@ body
     color:#555;
     width:450px
 
-    
+
 }
 
 .skills .my-skills button
@@ -396,7 +396,7 @@ body
     font-weight:bold;
 }
 
-/* End my Skills */ 
+/* End my Skills */
 
 /* Start Resume */
 
@@ -410,14 +410,14 @@ body
     text-align:center;
 }
 
-.resume h2 
+.resume h2
 {
     padding-bottom:20px;
     text-transform:capitalize;
     color:#555
 }
 
-.resume p 
+.resume p
 {
     line-height:1.7;
     padding-bottom:20px;
@@ -488,7 +488,7 @@ body
 
 .education .exp .cit-graph h3
 {
-    
+
     margin-top:50px
 }
 
@@ -502,7 +502,7 @@ body
 {
     color:#555;
     margin-bottom:15px;
-    
+
 }
 
 .education .exp span:last-of-type
@@ -537,16 +537,16 @@ body
 
 .education .in-education p
 {
-    line-height:30px;  
+    line-height:30px;
 }
 
-/* End my Education */  
- 
+/* End my Education */
+
 /* Start testimonials */
 
 .testimonials
 {
-    background-color:#f2f2f2;
+    background-color:#695c65;
     padding-top:60px;
     padding-bottom:60px;
     margin-top:20px;
@@ -554,14 +554,14 @@ body
     text-align:center;
 }
 
-.testimonials h3 , .testimonials q 
+.testimonials h3 , .testimonials q
 {
     padding:30px 0 15px 0;
 	color:#555;
-	
+
 }
 
-.testimonials h3 
+.testimonials h3
 {
 	color:#545d5c;
 	font-weight:bold;
@@ -596,7 +596,7 @@ body
 {
 	background-color:#2dcc70;
 	cursor:pointer;
-	
+
 }
 
 /* End testimonials */
@@ -607,7 +607,7 @@ body
 {
     padding-top:30px;
     padding-bottom:30px;
-        background-color:#f2f2f2;
+        background-color:#ccc;
 
     text-align: center
 }
@@ -625,7 +625,7 @@ body
 	text-align:center;
 	margin:100px 0
 }
- 
+
 .portfolio .our-work > div
 {
     float:left;
@@ -723,7 +723,7 @@ body
 .contact .form textarea
 {
 	height:230px;
-	
+
 }
 
 .contact .form button
@@ -745,7 +745,7 @@ body
 /* End COntact me */
 
 /* Start Footer */
- 
+
 .footer
 {
     background:none;
@@ -760,7 +760,7 @@ body
 {
     margin:30px 0 0 60px;
     float:left
-    
+
 }
 .footer ul
 {
