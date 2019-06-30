@@ -664,7 +664,8 @@ body
 
 .contact p
 {
-    color:#707578;
+    color:#fff;
+    opacity:.8;
 }
 
 .contact .info ,
@@ -717,7 +718,8 @@ body
 .contact .form input ,
 .contact .form textarea
 {
-	background-color:#4b5557;
+    	opacity:.8;
+	background-color:#fff;
 	border:none
 }
 .contact .form textarea
