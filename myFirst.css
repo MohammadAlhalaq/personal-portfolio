@@ -392,7 +392,7 @@ body
     display:block;
     line-height: 35px;
     text-align:right;
-    color:white;
+    color:rgb(202, 67, 67);
     font-weight:bold;
 }
 
@@ -500,7 +500,7 @@ body
 
 .education .exp span:first-of-type
 {
-    color:#555;
+    color:#000;
     margin-bottom:15px;
 
 }
@@ -508,7 +508,7 @@ body
 .education .exp span:last-of-type
 {
     display:inline-block;
-    color:white;
+    color:#d85757;
     margin-bottom:15px;
     background-color:#62df9e;
     padding:6px 12px
@@ -680,7 +680,7 @@ body
 }
 .contact .info p span
 {
-	color:white;
+	color:rgb(202, 67, 67);
 }
 .contact .info h2,
 .contact .info p:last-of-type
